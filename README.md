@@ -11,4 +11,6 @@ Abaixo os comandos para controlar Bilú:
 - barra de espaço: pulo
 - ctrl (ou clique com botão direito): atirar
 
-Dois tiros do sua pistola de raio laser são capazes de matar os Predadores, mas **ATENÇÃO**: não os deixe tocar em você... 
+Dois tiros do sua pistola de raio laser são capazes de matar os Predadores, mas **ATENÇÃO**: não os deixe tocar em você...
+
+https://rachelbottino.github.io/AlienEscape/
